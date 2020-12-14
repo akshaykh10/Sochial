@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sochial</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="_10_minutes_ago">10 minutes ago</string>
+    <string name="rahul">Rahul</string>
+</resources>
